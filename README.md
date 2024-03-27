@@ -47,3 +47,5 @@ let biodata = {
   deskripsi: .tidak ada yg spesial disini
 ```
 ![20240327_130547](https://github.com/FakeAXL00/FakeAXL00/assets/164671698/5ccedf71-83e2-400f-95e3-42b189b089c2)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=Blue&RED=380&height=45&lines=Orang+baik;Akan+di+kenal;banyak+orang;Sedangkan+penjahat;Yang+hebat;Tidak+ada;yang+mengenalnya+☣📢&center=true"></a>
