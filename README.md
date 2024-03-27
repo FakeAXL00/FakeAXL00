@@ -28,6 +28,10 @@ _I am FakeAXL,Do you LOVE me_
 [![Available](https://img.shields.io/badge/Team:-Bteamceylthia(BTC)-red.svg?maxAge=259200)]()
 [![Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
+> ### 👋 Already worked for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
+
+
 ```text
 
 Python    10 hrs 41 mins  █████████████░░░░░░░░░░░░   52.47 % 
