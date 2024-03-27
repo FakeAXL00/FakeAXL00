@@ -20,3 +20,30 @@
 </p>
 
 _I am FakeAXL,Do you LOVE me_
+
+[![Version](https://img.shields.io/badge/FakeAXL00-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Me:-FakeAXL-red.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+[![Available](https://img.shields.io/badge/Team:-Bteamceylthia(BTC)-red.svg?maxAge=259200)]()
+[![Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
+
+```text
+
+Python    10 hrs 41 mins  █████████████░░░░░░░░░░░░   52.47 % 
+
+Music   9 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.53 %
+
+Smoking 12 hrs 01 mins ███████████████████████░░░░░░░░░░░ 89.07 %
+```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+let biodata = {
+  nama: "AXL",
+  nama panggilan: "FakeAXL"
+  umur: -tidak diketahui
+  alamat: -tidak diketahui
+  deskripsi: .tidak ada yg spesial disini
+```
+![20240327_130547](https://github.com/FakeAXL00/FakeAXL00/assets/164671698/5ccedf71-83e2-400f-95e3-42b189b089c2)
