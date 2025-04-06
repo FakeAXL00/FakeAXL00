@@ -3,7 +3,8 @@
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🎧
-![1711519375537](https://github.com/FakeAXL00/FakeAXL00/assets/164671698/13f4b5b3-c69d-43b1-b5d6-5b3f78af9eef)
+![1000021972](https://github.com/user-attachments/assets/eeb48792-d8bd-4cfa-9f25-66a0b90a7ed6)
+
 ``(ketuk untuk menghubungkan)``
 
 <center>
@@ -25,7 +26,7 @@ _I am FakeAXL,Do you LOVE me_
 [![Version](https://img.shields.io/badge/Me:-FakeAXL-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-[![Available](https://img.shields.io/badge/Team:-Bteamceylthia(BTC)-red.svg?maxAge=259200)]()
+[![Available](https://img.shields.io/badge/Team:-RusiaAttacker(RAT)-red.svg?maxAge=259200)]()
 [![Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
 > ### 👋 Already worked for: 
@@ -50,6 +51,7 @@ let biodata = {
   alamat: -tidak diketahui
   deskripsi: .tidak ada yg spesial disini
 ```
-![20240327_130547](https://github.com/FakeAXL00/FakeAXL00/assets/164671698/5ccedf71-83e2-400f-95e3-42b189b089c2)
+![1000021979](https://github.com/user-attachments/assets/d57dc1f6-af7e-4623-8e92-f942ffdf90e8)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=Blue&RED=380&height=45&lines=Orang+baik;Akan+di+kenal;banyak+orang;Sedangkan+penjahat;Yang+hebat;Tidak+ada;yang+mengenalnya+☣📢&center=true"></a>
